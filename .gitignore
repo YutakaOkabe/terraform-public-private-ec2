@@ -1,0 +1,5 @@
+.terraform/*
+.terraform.lock.hcl
+modules/ec2/example-key.pub
+.envrc
+
